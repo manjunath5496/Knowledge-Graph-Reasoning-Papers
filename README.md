@@ -55,6 +55,17 @@ Question Answering with Knowledge Graph</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Reasoning-Papers/blob/master/k(29).pdf" style="text-decoration:none;">RNN logic: Learning Logic Rules For Reasoning On Knowledge Graphs </a></li>                              
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Reasoning-Papers/blob/master/k(30).pdf" style="text-decoration:none;">A Survey on Knowledge Graphs: Representation, Acquisition and Applications</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Reasoning-Papers/blob/master/k(31).pdf" style="text-decoration:none;">Knowledge Reasoning Based on Knowledge Graph</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Reasoning-Papers/blob/master/k(32).pdf" style="text-decoration:none;">Variational Knowledge Graph Reasoning</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Reasoning-Papers/blob/master/k(33).pdf" style="text-decoration:none;">Reading and Reasoning
+with Knowledge Graphs</a></li>                              
+
+
+
+
   </ul>
   
   
